@@ -1,0 +1,917 @@
+﻿routeID,agencyID,routeShortName,routeLongName,routeDesc
+1,3,132,Maerdy - Cardiff,Jubilee
+2,3,122,Tonypandy - Cardiff,Jubilee
+3,FirtCymuBussLtd,63,Porthcawl - Talbot Green,
+4,FirtCymuBussLtd,63,Porthcawl - Talbot Green,
+5,FirtCymuBussLtd,111,Llanelli - Swansea,
+6,FirtCymuBussLtd,111,Llanelli - Swansea,
+7,FirtCymuBussLtd.,X13,Swansea - Ammanford/Llandeilo,
+8,FirtCymuBussLtd.,X13,Swansea - Ammanford/Llandeilo,
+9,FirtCymuBussLtd,X2,Porthcawl - Cardiff,
+10,FirtCymuBussLtd,X2,Porthcawl - Cardiff,
+11,FirtCymuBussLtd,X6,Swansea - Ystradgynlais,
+12,FirtCymuBussLtd,X6,Swansea - Ystradgynlais,
+13,3,124,Cardiff - Maerdy,Jubilee
+14,3,X24,Blaenavon - Newport,Jubilee
+15,FirtCymuBussLtd.,X11,Swansea - Carmarthen,
+16,3,151,Blackwood - Newport,Jubilee
+17,3,151,Blackwood - Newport,Jubilee
+18,3,172,Aberdare - Bridgend,Jubilee
+19,FirtCymuBussLtd.,X11,Swansea - Carmarthen,
+20,FirtCymuBussLtd,16,Swansea - Pontarddulais,
+21,FirtCymuBussLtd,16,Swansea - Pontarddulais,
+22,LlewJonsCoas,19,Llandudno - Cwm Penmachno,"Llandudno - Cwm Penmachno via Llanrwst, Betws y Coed"
+23,FirtCymuBussLtd,36,City Centre - Morriston Cross,
+24,FirtCymuBussLtd,36,City Centre - Morriston Cross,
+25,3,120,Blaencwm - Caerphilly,Jubilee
+26,FirtCymuBussLtd.,T1,Carmarthen - Aberystwyth,
+27,3,X15,Brynmawr - Newport,
+28,ArraCymu,12,Rhyl - Llandudno,Rhyl - Llandudno  
+29,FirtCymuBussLtd,31,Swansea - Morriston Hospital,
+30,FirtCymuBussLtd,31,Swansea - Morriston Hospital,
+31,TANV,T12,Machynlleth - Wrexham,"Machynlleth - Wrexham via Newtown, Welshpool, Oswestry"
+32,3,X24,Blaenavon - Newport,Jubilee
+33,3,78,Abergavenny - Merthyr Tydfil,
+34,3,50,Bargoed - Newport,Jubilee
+35,FirtCymuBussLtd,74,Bridgend - Nantymoel,
+36,FirtCymuBussLtd,74,Bridgend - Nantymoel,
+37,CarfBus,94,Cardiff - Barry,"Cardiff - Barry via Penarth, Sullly"
+38,FirtCymuBussLtd.,129,Carmarthen - Ammanford,
+39,RicsBros,T5,Aberystwyth - Haverfordwest,"Aberystwyth - Haverfordwest via New Quay, Cardigan"
+40,NADT,116,Swansea - Landimore,"Swansea - Landimore via Penclawdd, Llanrhidian"
+41,FirtCymuBussLtd,87,Neath - Margam,
+42,FirtCymuBussLtd,87,Neath - Margam,
+43,FirtCymuBussLtd.,129,Ammanford - Carmarthen,
+44,FirtCymuBussLtd,4,Singleton Hospital - Morriston Hospital,
+45,FirtCymuBussLtd,4,Singleton Hospital - Morriston Hospital,
+46,CarfBus,94,Cardiff - Barry,"Cardiff - Barry via Penarth, Sully"
+47,3,23,Pontypool - Newport,Jubilee
+48,FirtCymuBussLtd,70,Cymmer - Bridgend,
+49,FirtCymuBussLtd,70,Cymmer - Bridgend,
+50,FirtCymuBussLtd,25,Swansea - Blaen-y-Maes,
+51,3,9,Glynhafod - Merthyr Tydfil,Jubilee
+52,FirtCymuBussLtd,25,Swansea - Blaen-y-Maes,
+53,ArraCymu,11,Chester - Holywell,Chester - Holywell via Hawarden
+54,CarfBus,9,Heath Hospital - Cardiff Sports Village,"Heath Hospital - Cardiff Sports Village via Grangetown, Whitchurch Road"
+55,AdveTral,T6,Brecon - Swansea,Brecon - Swansea  
+56,FirtCymuBussLtd,34,Swansea - Neath,
+57,CarfBus,50,Cardiff City Centre - Llanrumney,"Cardiff City Centre - Llanrumney via Broadway, Ball Road, Burnham Avenue"
+58,3,26,Cardiff - Blackwood,Jubilee
+59,CarfBus,50,Cardiff - Llanrumney,"Cardiff - Llanrumney via Broadway, Ball Road, Burnham Avenue"
+60,ArraCymu,5,Llandudno - Bangor,Llandudno - Bangor via Penmaenmawr
+61,ArraCymu,4,Chester - Mold,Chester - Mold  
+62,CarfBus,44,Cardiff City Centre - St Mellons,"Cardiff City Centre - St Mellons via Newport Road, Rumney, Trowbridge"
+63,3,56,Tredegar - Newport,Jubilee
+64,GwyrCoas,S3,Beddgelert - Dinorwig,Beddgelert - Dinorwig via Caernarfon
+65,FirtCymuBussLtd,X7,Swansea - Glynneath,
+66,FirtCymuBussLtd,X7,Swansea - Glynneath,
+67,NWPT,30,Cardiff - Newport,Cardiff - Newport  
+68,CarfBus,95,Cardiff - Barry,"Cardiff - Barry via Llandough, Dinas Powys, Gibbonsdown, Morrisons"
+69,LlosCoas,T2,Bangor - Aberystwyth,Bangor - Aberystwyth  
+70,SarsBros,461,Llandrindod Wells - Hereford,Llandrindod Wells - Hereford via Kington
+71,FirtCymuBussLtd,83,Port Talbot - Blaengwynfi/Glyncorrwg,
+72,CarfBus,61,Cardiff City Centre - Pentrebane,"Cardiff City Centre - Pentrebane via Canton, Fairwater"
+73,FirtCymuBussLtd,3A,Swansea - Bracelet Bay,
+74,FirtCymuBussLtd,3A,Swansea - Bracelet Bay,
+75,CarfBus,17,Cardiff City Centre - Ely,Cardiff City Centre - Ely  
+76,FirtCymuBussLtd,83,Port Talbot - Blaengwynfi/Glyncorrwg,
+77,CarfBus,61,Cardiff City Centre - Pentrebane,"Cardiff City Centre - Pentrebane via Canton, Fairwater"
+78,FirtCymuBussLtd.,128,Ammanford - Llanelli,
+79,CarfBus,49,Cardiff - Llanrumney,"Cardiff - Llanrumney via Broadway, Llanrumney Avenue"
+80,FirtCymuBussLtd,72,Bridgend - Blaengarw,
+81,CelcTral,X75,Rhayader - Shrewsbury,"Rhayader - Shrewsbury via Llanidloes, Newtown, Welshpool"
+82,FirtCymuBussLtd,72,Bridgend - Blaengarw,
+83,CarfBus,45,Cardiff City Centre - St Mellons,"Cardiff City Centre - St Mellons via Newport Road, Runmey"
+84,CarfBus,49,Cardiff City Centre - Llanrumney,"Cardiff City Centre - Llanrumney via Broadway, Llanrumney Avenue"
+85,CarfBus,28,Cardiff City Centre - Thornhill,"Cardiff City Centre - Thornhill via Albany Road, Roath Park Lake"
+86,CarfBus,18,Cardiff City Centre - Ely,Cardiff City Centre - Ely  
+87,FirtCymuBussLtd.,302,Withybush Industrial Estate (First Cymru Depot) - Withybush Industrial Estate (First Cymru Depot),
+88,CarfBus,96,Cardiff - Barry,"Cardiff - Barry via Wenvoe, Culverhouse Cross"
+89,FirtCymuBussLtd.,302,Withybush Industrial Estate (First Cymru Depot) - Withybush Industrial Estate (First Cymru Depot),
+90,FirtCymuBussLtd,71,Cymmer - Bridgend,
+91,FirtCymuBussLtd,71,Cymmer - Bridgend,
+92,CarfBus,95,Cardiff - Barry,"Cardiff - Barry via Llandough, Gibbonsdown"
+93,FirtCymuBussLtd,X8,Neath - Banwen/Coelbren,
+94,FirtCymuBussLtd,X8,Neath - Banwen/Coelbren,
+95,SSWL,130,Blaencwm - Caerphilly,Blaencwm - Caerphilly  
+96,FirtCymuBussLtd,92,Singleton Campus - Bay Campus,
+97,FirtCymuBussLtd.,128,Ammanford - Llanelli,
+98,FirtCymuBussLtd,92,Singleton Campus - Bay Campus,
+99,FirtCymuBussLtd.,195,Llanelli - Carmarthen,
+100,FirtCymuBussLtd,59,Neath - Pontrhydyfen,
+101,FirtCymuBussLtd.,124,Ammanford - Brynamman,
+102,ArraCymu,1,Wrexham - Chester Railway Station,Wrexham - Chester Railway Station via Pulford
+103,FirtCymuBussLtd,59,Neath - Pontrhydyfen,
+104,MHCO,T8,Corwen - Chester,Corwen - Chester  
+105,FirtCymuBussLtd.,124,Ammanford - Brynamman,
+106,CarfBus,96,Cardiff - Barry,Cardiff - Barry  
+107,FirtCymuBussLtd.,195,Llanelli - Carmarthen,
+108,3,8,Glynhafod - Morfa Glas,Jubilee
+109,FirtCymuBussLtd,20,Swansea - Derlwyn,
+110,FCYM,16,Swansea - Pontarddulais,"Swansea - Pontarddulais via Gowerton, Gorseinon"
+111,FirtCymuBussLtd,21,Swansea - Priors Way,
+112,FirtCymuBussLtd,4A,Singleton Hospital - Morriston Hospital,
+113,FirtCymuBussLtd,20,Swansea - Derlwyn,
+114,FirtCymuBussLtd,21,Swansea - Priors Way,
+115,FirtCymuBussLtd,4A,Singleton Hospital - Morriston Hospital,
+116,FirtCymuBussLtd,28,Swansea - Penplas,
+117,FirtCymuBussLtd,28,Swansea - Penplas,
+118,FirtCymuBussLtd,X1,Swansea - Bridgend,
+119,FirtCymuBussLtd,X1,Swansea - Bridgend,
+120,ArraCymu,13,Prestatyn - Llandudno,Prestatyn - Llandudno via Abergele
+121,ArraCymu,62,Bangor - Cemaes Bay,Bangor - Cemaes Bay via Amlwch
+122,3,130,Blaencwm - Caerphilly,Jubilee
+123,FirtCymuBussLtd,90,Bay Campus - Bay Campus,
+124,FirtCymuBussLtd,90,Bay Campus - Bay Campus,
+125,CarfBus,58,Cardiff - Pontprennau,"Cardiff - Pontprennau via Llanedeyrn, Pentwyn, Holiday Inn"
+126,3,52,Blackwood - Ebbw Vale,
+127,3,61,Aberdare - Pontypridd,Jubilee
+128,ORJons&SonsLtd,42,Bangor - Llangefni,Bangor - Llangefni  
+129,BERW,18,Pwllheli - Pwllheli,Pwllheli - Pwllheli via Abersoch
+130,FirtCymuBussLtd.,L3,Llanelli - Pontarddulais,
+131,FirtCymuBussLtd.,L3,Llanelli - Pontarddulais,
+132,CarfBus,57,Cardiff City Centre - Pontprennau,"Cardiff City Centre - Pontprennau via Pentwyn, Hollybush, Llanedeyrn, Albany Road"
+133,CarfBus,57,Cardiff - Pontprennau,"Cardiff - Pontprennau via Llanedeyrn, Hollybush, Pentwyn"
+134,FirtCymuBussLtd.,349,Haverfordwest - Tenby,
+135,FirtCymuBussLtd.,349,Haverfordwest - Tenby,
+136,AdveTral,43,Swansea - Morriston Hospital,Swansea - Morriston Hospital via Singleton Hospital
+137,FirtCymuBussLtd.,197,Llanelli - Carmarthen,
+138,FirtCymuBussLtd.,197,Llanelli - Carmarthen,
+139,ACYM,X51,Denbigh - Wrexham,"Denbigh - Wrexham via Ruthin, Llandegla"
+140,AdveTral,45,Swansea - Morriston,Swansea - Morriston  
+141,CelcTral,X47,Llandrindod Wells - Aberystwyth,"Llandrindod Wells - Aberystwyth via Rhayader, Llangurig, Ponterwyd"
+142,ArraCymu,2,Oswestry - Wrexham Bus Station,Oswestry - Wrexham Bus Station  
+143,SSWL,1,Merthyr Tydfil - Bargoed,Merthyr Tydfil - Bargoed  
+144,ArraCymu,5C,Bangor - Caernarfon,Bangor - Caernarfon  
+145,NewtBus,60,Newport - Monmouth,Newport - Monmouth  
+146,3,B,Cardiff - Senghenydd,Jubilee
+147,3,150,Gilfach Goch - Porth,Jubilee
+148,CarfBus,58,Cardiff City Centre - Pontprennau,"Cardiff City Centre - Pontprennau via Holiday Inn, Pentwyn, Llanedeyrn, Albany Road"
+149,P&OLlod,18,Flint - Rhyl,"Flint - Rhyl via Holywell, Prestatyn"
+150,FirtCymuBussLtd.,356,Monkton - Milford Haven,
+151,LlosCoas,T3,Barmouth - Wrexham,"Barmouth - Wrexham via Dolgellau, Bala"
+152,CarfBus,63,Cardiff City Centre - Radyr,"Cardiff City Centre - Radyr via Llandaff, Danescourt, Morganstown"
+153,NewtBus,X74,Newport - Chepstow,"Newport - Chepstow via Portskewett, Rogiet, Glan Llyn, Newport Retail Park"
+154,CarfBus,27,Cardiff City Centre - Thornhill,"Cardiff City Centre - Thornhill via Gabalfa Flyover, Templeton Avenue, Excalibur Drive"
+155,AdveTral,118,Swansea City Centre - Rhossili,Swansea City Centre - Rhossili via Killay
+156,FirtCymuBussLtd.,356,Monkton - Milford Haven,
+157,CarfBus,92,Cardiff - Penarth,Cardiff - Penarth via Cogan
+158,CarfBus,92,Cardiff - Penarth (St Luke's Avenue),Cardiff - Penarth (St Luke's Avenue)  
+159,FirtCymuBussLtd,12,Swansea - Townhill (Anti-Clockwise Circular),
+160,FirtCymuBussLtd,12,Swansea - Townhill (Anti-Clockwise Circular),
+161,FirtCymuBussLtd,2,Swansea - Newton,
+162,FirtCymuBussLtd,2,Swansea - Newton,
+163,ArraCymu,2A,Oswestry - Wrexham Bus Station,Oswestry - Wrexham Bus Station  
+164,3,86X,Caerphilly - Cardiff,Jubilee
+165,CarfBus,52,Cardiff - Cyncoed,Cardiff - Cyncoed  
+166,PhilAnsw,63,Cwmbran - Chepstow,"Cwmbran - Chepstow via Pontypool, Usk"
+167,CarfBus,52,Cardiff - Cyncoed,Cardiff - Cyncoed via Cardiff Met (Cyncoed Campus)
+168,ArraCymu,51,Rhyl - Denbigh,Rhyl - Denbigh  
+169,ArraCymu,5,Mold - Ellesmere Port,Mold - Ellesmere Port  
+170,FirtCymuBussLtd,34,Swansea - Neath,
+171,P&OLlod,19,Flint - Rhyl,"Flint - Rhyl via Holywell, Prestatyn"
+172,FirtCymuBussLtd,73,Bridgend - Blaengarw,
+173,FirtCymuBussLtd,73,Bridgend - Blaengarw,
+174,CarfBus,21,Cardiff City Centre - Pantmawr,Cardiff City Centre - Pantmawr  
+175,CarfBus,27,Cardiff - Thornhill,"Cardiff - Thornhill via Gabalfa Flyover, Templeton Avenue, Excalibur Drive"
+176,CarfBus,102,Pentrebane - Llanrumney,"Pentrebane - Llanrumney via Cardiff Heath Hospital, St. Mellons"
+177,3,T4,Merthyr Tydfil - Cardiff,
+178,3,1,Merthyr Tydfil - Bargoed,
+179,SouhWalsTrat,37,Swansea - Newton,Swansea - Newton  
+180,LlewJonsCoas,T22,Caernarfon - Blaenau Ffestiniog,Caernarfon - Blaenau Ffestiniog  
+181,GwyrCoas,S2,Bangor - Llanberis,Bangor - Llanberis  
+182,CarfBus,102,Pentrebane - St. Mellons,Pentrebane - St. Mellons via UHW Heath Hospital
+183,FirtCymuBussLtd,33,Swansea - Frederick Place,
+184,Caei,3,Pwllheli - Porthmadog,Pwllheli - Porthmadog  
+185,FirtCymuBussLtd,33,Swansea - Frederick Place,
+186,ArraCymu,5,Wrexham - Llangollen,Wrexham - Llangollen via Ruabon
+187,LlosCoas,T3C,Barmouth - Wrexham,"Barmouth - Wrexham via Dolgellau, Bala"
+188,RBRO,460,Carmarthen - Cardigan,Carmarthen - Cardigan via Newcastle Emlyn
+189,FirtCymuBussLtd,84,Swansea - Port Talbot,
+190,FirtCymuBussLtd,84,Swansea - Port Talbot,
+191,SSWL,B,Caerphilly - Senghenydd,Caerphilly - Senghenydd  
+192,3,3,Merthyr Tydfil - Bargoed,
+193,3,23,Hereford - Abergavenny,Jubilee
+194,ArraCymu,4S,Chester - Mold,Chester - Mold  
+195,NewtBus,73,Newport - Chepstow,Newport - Chepstow via Langstone
+196,3,X3,Pontypool - Cardiff,Jubilee
+197,NADT,404,Pontypridd - Bridgend,Pontypridd - Bridgend via Royal Glamorgan Hospital
+198,CarfBus,93,Cardiff - Barry,"Cardiff - Barry via Penarth, Dinas Powys"
+199,ArraCymu,51B,Rhyl - Denbigh,Rhyl - Denbigh  
+200,CarfBus,93,Cardiff - Barry,"Cardiff - Barry via Penarth, Dinas Powys"
+201,FirtCymuBussLtd,6,Swansea - Port Tennant,
+202,CarfBus,2,Cardiff City Circle - clockwise),Cardiff City Circle - clockwise)  
+203,3,50A,Bargoed - Newport,Jubilee
+204,FirtCymuBussLtd,6,Swansea - Port Tennant,
+205,ACYM,X51,Denbigh - Wrexham,Denbigh - Wrexham via Ruthin
+206,FirtCymuBussLtd,3,Swansea - Bracelet Bay,
+207,NewtBus,29,Newport - Cwmbran,"Newport - Cwmbran via Ponthir, The Grange Hospital"
+208,3,121,Blaenrhondda - Tonypandy,Jubilee
+209,FirtCymuBussLtd,3,Swansea - Bracelet Bay,
+210,LlosCoas,G23,Barmouth - Porthmadog,Barmouth - Porthmadog via Harlech
+211,RicsBros,T11,Fishguard - Haverfordwest,Fishguard - Haverfordwest  
+212,EdwsCoas,100,Royal Glamorgan Hospital - Pontypridd,Royal Glamorgan Hospital - Pontypridd via Beddau
+213,CarfBus,25,Cardiff City Centre - Llandaff North (Circular),Cardiff City Centre - Llandaff North (Circular) via Llandaff
+214,SSWL,R1,Newport - Pontymister,"Newport - Pontymister via Ty Sign, Risca"
+215,PhilAnsw,69,Chepstow - Monmouth,Chepstow - Monmouth  
+216,FirtCymuBussLtd,20A,Swansea - Derlwyn,
+217,FirtCymuBussLtd,20A,Swansea - Derlwyn,
+218,CarfBus,1,Cardiff - Cardiff,Cardiff - Cardiff  
+219,AdveTral,C1,Culverhouse Cross - Pontprennau,Culverhouse Cross - Pontprennau  
+220,MHCO,76,Denbigh - Llangwyfan,Denbigh - Llangwyfan  
+221,GwyrCoas,B3,Parc Menai - Bethesda,"Parc Menai - Bethesda via Bangor, Pentir"
+222,PhilAnsw,30,Blaenavon - Cwmbran,Blaenavon - Cwmbran via Pontypool
+223,CarfBus,23,Cardiff City Centre - Pantmawr,Cardiff City Centre - Pantmawr  
+224,ArraCymu,10,Chester - Connahs Quay,Chester - Connahs Quay  
+225,CarfBus,101,Pentrebane - Llanrumney,"Pentrebane - Llanrumney via UHW Heath Hospital, St. Mellons"
+226,CarfBus,11,Cardiff City Centre - Pengam Green,"Cardiff City Centre - Pengam Green via Splott, Tremorfa"
+227,3,21,Blackwood - Cwmbran,Jubilee
+228,3,21,Blackwood - Cwmbran,Jubilee
+229,FirtCymuBussLtd,91,Singleton Campus - Bay Campus,
+230,LlosCoas,G24,Dolgellau - Tywyn,Dolgellau - Tywyn via Machynllaeth
+231,FirtCymuBussLtd,91,Singleton Campus - Bay Campus,
+232,NewtBus,29A,Newport - Cwmbran,"Newport - Cwmbran via Ponthir, The Grange Hospital"
+233,FirtCymuBussLtd,38,Swansea - Neath,
+234,AdveTral,304,Llantwit Major - Cardiff,Llantwit Major - Cardiff via Barry
+235,M&HCoas,43,Llanfair - Pensarn,"Llanfair - Pensarn via Abergele, Belgrano"
+236,FirtCymuBussLtd,PR2,Swansea - Landore Park & Ride,
+237,SSWL,C9,Bargoed - Caerphilly,Bargoed - Caerphilly  
+238,FirtCymuBussLtd,PR2,Swansea - Landore Park & Ride,
+239,ArraCymu,27,Old Colwyn - Conwy,Old Colwyn - Conwy  
+240,3,A,Caerphilly - Graig y Rhacca,Jubilee
+241,3,170,Blaenllechau - Clydach Vale,Jubilee
+242,3,5,Blackwood - Pant Estate,Jubilee
+243,3,15,Trevethin - Pontypool,Jubilee
+244,3,404,Royal Glamorgan - Bridgend,Jubilee
+245,ArraCymu,15,Llysfaen - Conwy,Llysfaen - Conwy via Colwyn Bay
+246,3,79,Merthyr Tydfil - Bedlinog,
+247,FirtCymuBussLtd,76,Bridgend - Bettws,
+248,FirtCymuBussLtd,76,Bridgend - Bettws,
+249,AdveTral,B3,Barry - Barry,Barry - Barry via Cadoxton
+250,SWTR,X6C,Graig Felen - Craig Cefn Parc,Graig Felen - Craig Cefn Parc via Clydach
+251,AdveTral,14,Swansea - Pennard,"Swansea - Pennard via Blackpill, Bishopston"
+252,MoneCouyCou,65,Monmouth - Chepstow,Monmouth - Chepstow via Trellech
+253,AdveTral,117,Killay - Gower,"Killay - Gower via Parkmill, Oxwich"
+254,AdveTral,64,Ammanford - Ystradgynlais,Ammanford - Ystradgynlais via Brynamman
+255,ArraCymu,11M,Holywell - Rhyl,Holywell - Rhyl via Prestatyn
+256,MorsTral,227,Llan y bri - Carmarthen,Llan y bri - Carmarthen via Llansteffan
+257,FirtCymuBussLtd,PR1,Swansea - Fabian Way Park & Ride,
+258,FirtCymuBussLtd,PR1,Swansea - Fabian Way Park & Ride,
+259,ArraCymu,14,Llysfaen - Conwy,Llysfaen - Conwy via Colwyn Bay
+260,3,X43,Brecon - Abergavenny,
+261,TantValyCoas,64,Llanarmon DC - Llangollen,"Llanarmon DC - Llangollen via Glyn Ceiriog, Chirk, Froncysyllte"
+262,CelcTral,48,Llandrindod Wells - Llanwrtyd Wells,Llandrindod Wells - Llanwrtyd Wells via Builth Wells
+263,AdveTral,102,Glyncoch - Nantgarw,"Glyncoch - Nantgarw via Pontypridd, Upper Boat Tesco"
+264,3,C9,Bargoed - Caerphilly,Jubilee
+265,3,78,Merthyr Tydfil - Pontypridd,
+266,FirtCymuBussLtd,82,Golden Avenue - Port Talbot,
+267,LlosCoas,G21,Dolgellau - Machynllaeth,"Dolgellau - Machynllaeth via Fairbourne, Aberdyfi"
+268,MorsTral,280,Carmarthen - Llandovery,"Carmarthen - Llandovery via Nantgaredig, Llandeilo"
+269,NewtBus,16C,Newport - Newport,Newport - Newport  
+270,3,60,Aberdare - Pontypridd,Jubilee
+271,NewtBus,T7,Magor - Bristol,"Magor - Bristol via Chepstow, Cribbs Causeway"
+272,SouhWalsTrat,251,Neath - Ridgewood Gardens,Neath - Ridgewood Gardens via Glannant Estate
+273,ArraCymu,11C,Holywell - Rhyl,Holywell - Rhyl via Prestatyn
+274,NADT,C16,Caerphilly - Nelson,Caerphilly - Nelson via Ystrad Mynach
+275,FirtCymuBussLtd,X5,Swansea - Neath,
+276,Dana,53,Tircoed - Swansea,Tircoed - Swansea  
+277,P&OLlod,14,Mold - Denbigh,"Mold - Denbigh via Caerwys, Bodfari"
+278,EdwsCoas,400,Gwaunmiskin - Cardiff,Gwaunmiskin - Cardiff  
+279,SarsBrosCoae,41,Lloyney - Kington,"Lloyney - Kington via Knucklas, Presteigne"
+280,ArraCymu,25,Pentre Felin - Llandudno,Pentre Felin - Llandudno  
+281,AdveTral,305,Cardiff - Dinas Powys,Cardiff - Dinas Powys  
+282,3,27,Merthyr - Prince Charles Hospital,
+283,NewtBus,19,Newport Bus Station - Malpas Court,Newport Bus Station - Malpas Court  
+284,SouhWalsTrat,256,Neath - Pontardawe,Neath - Pontardawe via Bryncoch
+285,PhilAnsw,X1,Brynmawr - Cwmbran,Brynmawr - Cwmbran via Abertillery
+286,TafValyCoas,381,Tenby - Haverfordwest,"Tenby - Haverfordwest via Saundersfoot, Kilgetty"
+287,3,R1,Newport - Pontymister,Jubilee
+288,3,T4,Brecon - Merthyr Tydfil,
+289,BernCoas,17,Pwllheli - Aberdaron,Pwllheli - Aberdaron  
+290,NewtBus,27,Newport - Caerleon,Newport - Caerleon  
+291,JAEvas,585,Lampeter - Aberystwyth,Lampeter - Aberystwyth via Tregaron
+292,FirtCymuBussLtd,X3,Port Talbot - Maesteg,
+293,FirtCymuBussLtd,X3,Port Talbot - Maesteg,
+294,ArraCymu,X4,Chester - Mold,Chester - Mold  
+295,FirtCymuBussLtd,13,Swansea - Townhill (Clockwise Circular),
+296,FirtCymuBussLtd,13,Swansea - Townhill (Clockwise Circular),
+297,MorsTral,198,Four Roads - Carmarthen,Four Roads - Carmarthen  
+298,NewtBus,36,Newport - Newport,Newport - Newport  
+299,ArraCymu,12,Wrexham - Brymbo,Wrexham - Brymbo via Pentre Broughton
+300,ForeTral,202,Port Talbot - Neath,Port Talbot - Neath via Maesteg
+301,NewtBus,74,Newport - Chepstow,"Newport - Chepstow via Portskewett, Rogiet, Underwood"
+302,3,136,Creigiau - Cardiff,Jubilee
+303,JAEvas,588,Aberystwyth - Lampeter,Aberystwyth - Lampeter via Tregaron
+304,AdveTral,112,Old Ynysybwl - Nantgarw,Old Ynysybwl - Nantgarw  
+305,SSWL,A,Caerphilly - Graig y Rhacca,Caerphilly - Graig y Rhacca  
+306,ArraCymu,4A,Bangor - Llangefni,Bangor - Llangefni  
+307,CarfBus,35,Cardiff City Centre - Gabalfa,Cardiff City Centre - Gabalfa via North Road
+308,TafValyCoas,222,Pendine - Carmarthen,Pendine - Carmarthen  
+309,SSWL,6,Cwmbran - Ty Canol,"Cwmbran - Ty Canol via St. Dials, Greenmeadow"
+310,SSWL,6,Cwmbran - Ty Canol,"Cwmbran - Ty Canol via St. Dials, Greenmeadow"
+311,FirtCymuBussLtd,68,Bridgend - Cefn Glas (Circular),
+312,FirtCymuBussLtd,2A,Swansea - Bracelet Bay,
+313,FirtCymuBussLtd,82,Golden Avenue - Port Talbot,
+314,FirtCymuBussLtd,2A,Swansea - Bracelet Bay,
+315,P&OLlod,LT7,Mold - Hope,Mold - Hope  
+316,NewtBus,35,Newport - Newport,Newport - Newport  
+317,SouhWalsTrat,22,Swansea - Three Crosses,Swansea - Three Crosses  
+318,Clyg&Tren,12,Caernarfon - Pwllheli,Caernarfon - Pwllheli via Trefor
+319,HarsCoas,14,Blackwood - Bargoed,Blackwood - Bargoed  
+320,ArraCymu,35,Rhyl - Rhyl,Rhyl - Rhyl via Prestatyn
+321,LewsYLlan,61,Amlwch - Holyhead,Amlwch - Holyhead via Cemaes
+322,FirtCymuBussLtd,58,Neath - Banwen,
+323,FirtCymuBussLtd,58,Neath - Banwen,
+324,TantValyCoas,74,Llanfyllin - Shrewsbury,"Llanfyllin - Shrewsbury via Crew Green, Ford"
+325,NewtBus,7,Newport - Alway,Newport - Alway  
+326,AdveTral,600,Aberdare - Cardiff,"Aberdare - Cardiff via Mountain Ash, Abercynon, Pontypridd"
+327,SSWL,6,Cwmbran - Ty Canol,"Cwmbran - Ty Canol via St. Dials, Greenmeadow"
+328,FirtCymuBussLtd.,127,Ammanford - Garnswllt,
+329,FirtCymuBussLtd.,127,Ammanford - Garnswllt,
+330,FirtCymuBussLtd,68,Bridgend - Cefn Glas (Circular),
+331,3,139,Treorchy - Cwmparc,Jubilee
+332,MorsTral,281,Carmarthen - Llandovery,"Carmarthen - Llandovery via Nantgaredig, Llandeilo"
+333,NewtBus,6,Newport - Ringland,Newport - Ringland via Maindee
+334,CarfBus,29,Cardiff City Centre - Llanishen,"Cardiff City Centre - Llanishen via Albany Road, Lakeside"
+335,LewsYLlan,63,Bangor - Llanerchymedd,Bangor - Llanerchymedd  
+336,CarfBus,101,Pentrebane - St. Mellons,"Pentrebane - St. Mellons via Cardiff Heath Hospital, Llanrumney"
+337,P&OLlod,126,Holywell - Mold,Holywell - Mold via Halkyn
+338,Hens,1,Abertillery - Abertillery,Abertillery - Abertillery via Cwmtyleri
+339,ArraCymu,24,Colwyn Bay - Llandudno Junction,Colwyn Bay - Llandudno Junction via Mochdre
+340,3,96,Crosskeys - Tredegar,Jubilee
+341,ArraCymu,5D,Llandudno - Bangor,Llandudno - Bangor via Penmaenmawr
+342,3,T14,Hereford - Hay On Wye,
+343,3,6,Cwmbran - Ty Canol,Jubilee
+344,GwyrCoas,S4,Pen y Pass - Porthmadog,Pen y Pass - Porthmadog via Beddgelert
+345,3,6,Cwmbran - Ty Canol,Jubilee
+346,3,23,Merthyr - Twyncarmel,
+347,3,35,Merthyr Tydfil - Rhydybedd,
+348,3,23,Abergavenny - Pontypool,Jubilee
+349,NefnCoas,8,Pwllheli - Tudweiliog,Pwllheli - Tudweiliog via Nefyn
+350,NefnCoas,8B,Pwllheli - Rhydlios,Pwllheli - Rhydlios  
+351,NewtBus,42,Newport - Newport Retail Park,Newport - Newport Retail Park  
+352,FCYM,20,Swansea - Derlwyn,Swansea - Derlwyn via Killay
+353,FirtCymuBussLtd,69,Bridgend - Cefn Glas (Circular),
+354,PhilAnsw,24X,Varteg Hill - Newport,Varteg Hill - Newport via Cwmbran
+355,3,155,Porth - Ferndale,Jubilee
+356,K&PCoas,T10,Bangor - Corwen,"Bangor - Corwen via Betws, y, Coed"
+357,AdveTral,24,Swansea - Morriston Hospital,Swansea - Morriston Hospital via Parc Gwernfadog
+358,CarfBus,B1,Highlight Park - Barry Island,"Highlight Park - Barry Island via Colcot, Gibbonsdown, Barry"
+359,AdveTral,86,Thornhill - Cardiff,Thornhill - Cardiff  
+360,FirtCymuBussLtd.,166,Carmarthen - Cross Hands,
+361,FirtCymuBussLtd.,166,Carmarthen - Cross Hands,
+362,NewtBus,5,Newport - Gwent Europark,Newport - Gwent Europark via Ringland
+363,FirtCymuBussLtd.,L2,Llanelli (Bus Station) - Llanelli (Bus Station),
+364,FirtCymuBussLtd.,L2,Llanelli (Bus Station) - Llanelli (Bus Station),
+365,GwyrCoas,S1,Caernarfon - Betws y Coed,Caernarfon - Betws y Coed via Llanberis
+366,FirtCymuBussLtd,69,Bridgend - Cefn Glas (Circular),
+367,CarfBus,59,Cardiff City Centre - St. Ederyn's Village,"Cardiff City Centre - St. Ederyn's Village via Newport Road, Pentwyn, Pontprennau"
+368,3,C,Caerphilly - Penyrheol,Jubilee
+369,RicsBros,410,Fishguard Square - Fishguard Square,Fishguard Square - Fishguard Square via Fishguard Harbour
+370,FirtCymuBussLtd.,T1A,Carmarthen - Aberystwyth,
+371,CarfBus,13,Cardiff City Centre - Drope,"Cardiff City Centre - Drope via Canton, Ely"
+372,3,X32,Maerdy - Cardiff,Jubilee
+373,ArraCymu,4,Llangefni - Holyhead,Llangefni - Holyhead  
+374,P&OLlod,D1,Flint - Deeside Industrial Park,Flint - Deeside Industrial Park  
+375,3,T4,Newtown - Llandrindod Wells,
+376,NewtBus,20,Newport Retail Park - Newport,Newport Retail Park - Newport  
+377,HarsCoas,4A,Tredegar - Tredegar,"Tredegar - Tredegar via Rhymney, Pontlottyn, Abertysswg"
+378,HarsCoas,12,New Tredegar - Blackwood,New Tredegar - Blackwood  
+379,Dana,161,Neath - Min yr Awel,Neath - Min yr Awel  
+380,ArraCymu,4,Llangefni - Holyhead,Llangefni - Holyhead  
+381,3,1,Cwmbran - Thornhill,Jubilee
+382,3,1,Cwmbran - Thornhill,Jubilee
+383,BernCoas,14,Pwllheli - Tudweiliog,Pwllheli - Tudweiliog  
+384,NewtBus,16A,Newport - Newport,Newport - Newport  
+385,PhilAnsw,24X,Varteg Hill - Newport,Varteg Hill - Newport via Cwmbran
+386,AdveTral,46,Morriston - Gorseinon,Morriston - Gorseinon  
+387,DilsCoas,G6,Caernarfon - Dinas Dinlle,Caernarfon - Dinas Dinlle  
+388,ArraCymu,23,Old Colwyn - Old Colwyn,Old Colwyn - Old Colwyn  
+389,FirtCymuBussLtd,29,Swansea - Tycoch,
+390,NewtBus,43,Newport - Newport Retail Park,Newport - Newport Retail Park  
+391,GWCO,G4,Nantlle - Caernarfon,Nantlle - Caernarfon via Penygroes
+392,FirtCymuBussLtd,41,Morriston Cross - Swansea,
+393,3,131,Maerdy - Royal Glamorgan Hospital,Jubilee
+394,3,95,Aberdare - Perthcelyn,Jubilee
+395,FirtCymuBussLtd,41,Morriston Cross - Swansea,
+396,DWYN,37,Blaenau Ffestiniog - Blaenau Ffestiniog,"Blaenau Ffestiniog - Blaenau Ffestiniog via Llechwedd, Tanygrisiau, Ffordd Benar"
+397,JAEvas,T21,Tregaron - Aberystwyth,Tregaron - Aberystwyth via Pontrhydygroes & Llanafan
+398,FirtCymuBussLtd.,T1X,Carmarthen - Aberystwyth,
+399,HarsCoas,C17,Caerphilly - Bargoed,"Caerphilly - Bargoed via Llanbradach, Ystrad Mynach, Gelligaer"
+400,NickMadyCoas,34,Ross - Monmouth,Ross - Monmouth  
+401,FirtCymuBussLtd.,L7,Llanelli - Yr Hendy,
+402,FirtCymuBussLtd.,L7,Llanelli - Yr Hendy,
+403,3,T14,Brecon - Hay On Wye,
+404,3,R2,Pontymister - Ynysddu,Jubilee
+405,ArraCymu,33,Wrexham - Wrexham,Wrexham - Wrexham via Llay
+406,NewtBus,1,Newport - Rogerstone,Newport - Rogerstone  
+407,FirtCymuBussLtd.,145,Ammanford (Bus Station) - Ammanford (Bus Station),
+408,FirtCymuBussLtd.,145,Ammanford (Bus Station) - Ammanford (Bus Station),
+409,Rids,66,Port Talbot - Goytre,Port Talbot - Goytre  
+410,RicsBros,408,Cardigan - Poppet Sands,Cardigan - Poppet Sands via St Dogmael's
+411,FirtCymuBussLtd.,165,Ammanford - Cross Hands,
+412,FirtCymuBussLtd.,165,Ammanford - Cross Hands,
+413,3,27,Blackwood - Bargoed,Jubilee
+414,ArraCymu,11,Wrexham - Minera,Wrexham - Minera via Coedpoeth
+415,LlewJonsCoas,75,Llandudno - Llanfairfechan,"Llandudno - Llanfairfechan via Conwy, Penmaenmawr"
+416,AdveTral,119,Swansea - Rhossili,Swansea - Rhossili via Killay
+417,NewtBus,74A,Newport - Underwood,Newport - Underwood via Langstone
+418,3,43,Brecon - Abergavenny,
+419,OperLLCO,T28,Aberystwyth - Machynlleth,Aberystwyth - Machynlleth  
+420,ArraCymu,X12,Llandudno - Rhyl,Llandudno - Rhyl  
+421,CarfBus,M1,Cardiff Met Cyncoed - Cardiff Met Llandaff,"Cardiff Met Cyncoed - Cardiff Met Llandaff via Roath, Cathays"
+422,FirtCymuBussLtd,81,Port Talbot - Brynbryddan,
+423,FirtCymuBussLtd,81,Port Talbot - Brynbryddan,
+424,FirtCymuBussLtd.,L5,Llanelli (Bus Station) - Llanelli (Bus Station),
+425,FirtCymuBussLtd.,L5,Llanelli (Bus Station) - Llanelli (Bus Station),
+426,FirtCymuBussLtd.,L1,Llanelli - Llaneli,
+427,FirtCymuBussLtd.,L1,Llanelli - Llaneli,
+428,CarfBus,7,Cardiff City Centre - Penarth,Cardiff City Centre - Penarth  
+429,PhilAnsw,24X,Varteg Hill - Newport,Varteg Hill - Newport via Cwmbran
+430,CarfBus,62,Cardiff City Centre - Rhydlafar,"Cardiff City Centre - Rhydlafar via Llandaff, Danescourt"
+431,HarsCoas,7,Blackwood - Pontypridd,"Blackwood - Pontypridd via Ystrad Mynach, Nelson"
+432,MorsTral,226,Carmarthen - Carmarthen,Carmarthen - Carmarthen via Johnstown
+433,P&OLlod,9,Connahs Quay Shopping Centre - Broughton Retail Park,"Connahs Quay Shopping Centre - Broughton Retail Park via Shotton, Mancot"
+434,CarfBus,M1,Cardiff Met Cyncoed - Cardiff Met Llandaff,"Cardiff Met Cyncoed - Cardiff Met Llandaff via Roath, Cathays"
+435,CarfBus,24,Cardiff City Centre - Llandaff North (Circular),Cardiff City Centre - Llandaff North (Circular) via Whitchurch
+436,GwyrCoas,54,Llangefni - Llangefni,"Llangefni - Llangefni via Niwbwrch, Llangaffo"
+437,SarsBros,462,Llandrindod Wells - Hereford,Llandrindod Wells - Hereford via Kington
+438,ArraCymu,27,Wrexham - Mold,Wrexham - Mold via Leeswood
+439,ArraCymu,2C,Cefn - Wrexham Bus Station,Cefn - Wrexham Bus Station  
+440,FirtCymuBussLtd.,146,Ammanford (Bus Station) - Ammanford (Bus Station),
+441,FirtCymuBussLtd.,146,Ammanford (Bus Station) - Ammanford (Bus Station),
+442,ArraCymu,3,Wrexham - Wrexham,Wrexham - Wrexham via Penycae
+443,MorsTral,B1,Burry Port - Burry Port,Burry Port - Burry Port via Pembrey
+444,EifsCoas,32,Llangefni - Amlwch,Llangefni - Amlwch via Llanerchymedd
+445,3,11,Cwmbran - Pontypool,Jubilee
+446,TafValyCoas,224,Carmarthen - Whitland,Carmarthen - Whitland via St Clears
+447,AdveTral,X38,Pontypridd - Bargoed,Pontypridd - Bargoed via Nelson
+448,GwyrCoas,45,Llangefni - Rhosneigr,Llangefni - Rhosneigr  
+449,ThosofRhoa,175,Clydach Vale - Porth,Clydach Vale - Porth  
+450,3,81,Merthyr Tydfil - Bryngolau,
+451,P&OLlod,8,Sealand Manor - Mold,Sealand Manor - Mold via Connah's Quay
+452,NewtBus,8C,Newport - Ringland,Newport - Ringland  
+453,NewtBus,74C,Newport - Underwood,Newport - Underwood via Glan Llyn
+454,AdveTral,62,Ystradgynlais - Gurnos,"Ystradgynlais - Gurnos via Coelbren, Abercraf"
+455,NewtBus,37,Newport - Rhiwderin,Newport - Rhiwderin  
+456,SSWL,C,Caerphilly - Penyrheol,Caerphilly - Penyrheol  
+457,3,172,Aberdare - Merthyr Tydfil,Jubilee
+458,FirtCymuBussLtd,29,Swansea - Tycoch,
+459,MidWalsTral,512,Ynyslas - Aberystwyth,Ynyslas - Aberystwyth via Bow Street
+460,GwyrCoas,25,Holyhead - Aberffraw,Holyhead - Aberffraw  
+461,ArraCymu,67L,Bangor - Bethesda,Bangor - Bethesda  
+462,3,E,Senghenydd - Caerphilly,Jubilee
+463,ArraCymu,67L,Bangor - Bethesda,Bangor - Bethesda  
+464,TantValyCoas,558,Montgomery -  Shrewsbury,Montgomery -  Shrewsbury via Worthen
+465,ArraCymu,78A,Bangor - Maesgeirchen,Bangor - Maesgeirchen  
+466,FirtCymuBussLtd,905,Cwmtwrch - Neath College,
+467,PatsCoas,146,Wrexham - Whitchurch,Wrexham - Whitchurch  
+468,CarfBus,6,Cardiff Bay Millennium Centre - City Centre,Cardiff Bay Millennium Centre - City Centre  
+469,ArraCymu,8,Wrexham - Wrexham,Wrexham - Wrexham via Caia Park
+470,TantValyCoas,81,Welshpool - Newtown,Welshpool - Newtown  
+471,3,7,Cwmbran - Hollybush,Jubilee
+472,3,7,Cwmbran - Hollybush,Jubilee
+473,PemeCouyCou,388,Pembroke Dock - Pembroke Dock,"Pembroke Dock - Pembroke Dock via Stackpole, Angle"
+474,AdveTral,35,Swansea - Llangyfelach,"Swansea - Llangyfelach via Brynhyfryd, Hollet Road"
+475,3,T4,Builth Wells - Brecon,
+476,ArraCymu,7,Wrexham - Wrexham,Wrexham - Wrexham via Caia Park
+477,M&HCoas,29,Mold - Wrexham,Mold - Wrexham  
+478,Con2,J,Caerphilly - Machen,"Caerphilly - Machen via Rudry, Draethen"
+479,TafValyCoas,351,Tenby - Pendine,Tenby - Pendine via Saundersfoot
+480,3,40A,Brecon - Brecon,
+481,OWNC,86C,Newtown Bus Station - Newtown Bus Station,"Newtown Bus Station - Newtown Bus Station via Maesydail, Trehafren"
+482,RicsBros,X50,Aberaeron - Cardigan,Aberaeron - Cardigan via Newquay
+483,PetsMinsHire,24,Merthyr Tydfil - Pontsticill,Merthyr Tydfil - Pontsticill  
+484,Dana,X5,Neath - Glynneath,Neath - Glynneath  
+485,FirtCymuBussLtd.,L4,Llanelli - Llundain Fach,
+486,FirtCymuBussLtd.,L4,Llanelli - Llundain Fach,
+487,3,97,Brynmawr - Tredegar,
+488,HarsCoas,E11,Ebbw Vale - Tredegar,"Ebbw Vale - Tredegar via Morrisons, Georgetown"
+489,ArraCymu,5C,Wrexham - Llangollen,Wrexham - Llangollen via Ruabon
+490,ArraCymu,36,Rhyl - Rhyl,Rhyl - Rhyl via Prestatyn
+491,TantValyCoas,76,Llanrhaedr - Welshpool,"Llanrhaedr - Welshpool via Llanfyllin, Guilsfield"
+492,NADT,103,Pontypridd - Cilfynydd,Pontypridd - Cilfynydd  
+493,FirtCymuBussLtd,908,Neath College - Croeserw,
+494,CarfBus,4,Cardiff Wood Street - Sloper Road Depot,Cardiff Wood Street - Sloper Road Depot  
+495,M&HCoas,21,Llandudno - Abergele,Llandudno - Abergele  
+496,ArraCymu,10A,Chester - Connahs Quay,Chester - Connahs Quay  
+497,NewtBus,2,Newport - Gaer,Newport - Gaer  
+498,FirtCymuBussLtd,907,Neath - Coelbren.,
+499,HarsCoas,H,Caerphilly - Rhacca,"Caerphilly - Rhacca via Bedwas, Trethomas"
+500,FirtCymuBussLtd,55,Neath - Pontneddfechan,
+501,FirtCymuBussLtd,55,Neath - Pontneddfechan,
+502,AdveTral,65,Bridgend - Talbot Green,"Bridgend - Talbot Green via Bryncethin, Heol, y, Cyw, Llanharan"
+503,Dana,142,Morriston - Garnswllt,Morriston - Garnswllt via Morriston Hospital
+504,RicsBros,430,Cardigan - Narberth,"Cardigan - Narberth via Cilgerran, Crymych"
+505,OWNC,86A,Newtown - Newtown,Newtown - Newtown via Maesydail
+506,3,T4,Llandrindod Wells - Builth Wells,
+507,NewtBus,8A,Newport - Ringland,Newport - Ringland  
+508,3,K,Caerphilly - Caledfryn,Jubilee
+509,YeosCannTral,39A,Hay on Wye - Hereford,Hay on Wye - Hereford  
+510,M&HCoas,2,Ruthin - Mold,Ruthin - Mold  
+511,AdveTral,100,Barry - Calcot,"Barry - Calcot via Barry Island, Town Centre, Colcot"
+512,ArraCymu,58,Bangor - Glan Yr Afon,Bangor - Glan Yr Afon  
+513,ArraCymu,11F,Holywell - Rhyl,Holywell - Rhyl via Prestatyn
+514,FirtCymuBussLtd,906,Neath College - Awel,
+515,ArraCymu,67C,Bangor - Bethesda,Bangor - Bethesda  
+516,ArraCymu,4L,Bangor - Llangefni,Bangor - Llangefni  
+517,PeynTralLtd,861,Nottage - Danygraig,Nottage - Danygraig via Newton
+518,ArraCymu,11A,Wrexham - Minera,Wrexham - Minera via Coedpoeth
+519,ArraCymu,67C,Bangor - Bethesda,Bangor - Bethesda  
+520,PemeCouyCou,387,Pembroke Dock - Pembroke Dock,"Pembroke Dock - Pembroke Dock via Stackpole, Angle"
+521,ArraCymu,21,Wrexham - Summerhill,Wrexham - Summerhill via Pendine Estate
+522,SouhWalsTrat,15,Swansea - Waunarlwydd,"Swansea - Waunarlwydd via Uplands, Cockett"
+523,PRTH,133,Llwyncelyn - Wattstown,Llwyncelyn - Wattstown via Porth
+524,FirtCymuBussLtd,42,Singleton Campus - Morriston Cross,
+525,3,25,Merthyr Tydfil - Pontsticill,
+526,AdveTral,115,Burry Green - Gower Circular,"Burry Green - Gower Circular via Llanrhidian Cross, Reynoldston"
+527,HarsCoas,4C,Tredegar - Tredegar,"Tredegar - Tredegar via Rhymney, Pontlottyn, Abertysswg"
+528,AdveTral,89,Aberdare - Merthyr Tydfil,Aberdare - Merthyr Tydfil  
+529,NewtBus,21,Newport Retail Park - Newport,Newport Retail Park - Newport  
+530,FirtCymuBussLtd,42,Singleton Campus - Morriston Cross,
+531,FirtCymuBussLtd,39,Swansea - Tycoch Square,
+532,3,2,Cwmbran - Croesyceiliog,Jubilee
+533,AdveTral,320,Cardiff - Talbot Green,Cardiff - Talbot Green  
+534,3,16,Pantygasseg - Pontypool,Jubilee
+535,KeesCoas,91,Abercwmboi - Penywaun,Abercwmboi - Penywaun  
+536,SouhWalsTrat,121,Ystradgynlais - Penywern,Ystradgynlais - Penywern via Circular
+537,3,E2,Ebbw Vale - Garn Lydan,Jubilee
+538,NewtBus,9C,Newport - Retail Park,Newport - Retail Park  
+539,TantValyCoas,79A,Llangynog - Oswestry,Llangynog - Oswestry via Llanrhaeadr
+540,NefnCoas,8A,Pwllheli - Nefyn,Pwllheli - Nefyn  
+541,AdveTral,303,Llantwit Major - Bridgend,Llantwit Major - Bridgend  
+542,FirtCymuBussLtd,903,Neath - Abercrave,
+543,MidWalsTral,526,Aberystwyth - Penrhyncoch,Aberystwyth - Penrhyncoch  
+544,CarfBus,4,Cardiff Wood Street - Sloper Road Depot,Cardiff Wood Street - Sloper Road Depot  
+545,PetsMinsHire,22,Merthyr Tydfil - Hoelgerrig,Merthyr Tydfil - Hoelgerrig  
+546,PhilAnsw,31,Brynmawr - Foergeside,Brynmawr - Foergeside via Blaenavon
+547,NewtBus,26A,Newport -  St. Julians,Newport -  St. Julians  
+548,NewtBus,X30,Newport - Cardiff,Newport - Cardiff via University Hospital (Heath)
+549,TafValyCoas,322,Carmarthen - Haverfordwest,Carmarthen - Haverfordwest  
+550,AdveTral,106,Pontypridd - Old Ynysybwl,Pontypridd - Old Ynysybwl via Coed Y Cwm
+551,SouhWalsTrat,252,Neath - Neath,Neath - Neath  
+552,FirtCymuBussLtd,902,Neath College - Cwmavon,
+553,EdwsCoas,90,Gwaunmiskin - Pontypridd,Gwaunmiskin - Pontypridd via Upper Church Village
+554,3,X,Cardiff - Senghenydd,Jubilee
+555,MorsTral,215,Carnarthen - Llanpumpsaint,Carnarthen - Llanpumpsaint  
+556,3,E1,Ebbw Vale - Garn Lydan,Jubilee
+557,AdveTral,111,Pontypridd - Ty Rhiw,"Pontypridd - Ty Rhiw via Glan, Y, Ffordd, Upper Boat"
+558,TantValyCoas,72,Llanfyllin - Oswestry,Llanfyllin - Oswestry  
+559,3,25,Fernhill - Pontypridd,Jubilee
+560,3,5C,Cwmbran - Fairwater and Henllys,Jubilee
+561,ArraCymu,58L,Bangor - Glan Yr Afon,Bangor - Glan Yr Afon  
+562,3,T14C,Merthyr Tydfil - Cardiff,
+563,3,12,Pontypool - Upper Race,Jubilee
+564,Towx,28,Mold - Flint,Mold - Flint  
+565,FirtCymuBussLtd.,103,Ammanford - Llandybie,
+566,FirtCymuBussLtd.,103,Ammanford - Llandybie,
+567,NefnCoas,27,Pwllheli - Nefyn,Pwllheli - Nefyn via Llithfaen
+568,SeltCoas,4,Skewen - Neath victoria Gardens,"Skewen - Neath victoria Gardens via Longford, Pencaerau"
+569,NewtBus,9A,Newport - Retail Park,Newport - Retail Park  
+570,ArraCymu,35,Wrexham - Wrexham,Wrexham - Wrexham via Acton
+571,3,5A,Cwmbran - Fairwater and Henllys,Jubilee
+572,MorsTral,206,Carmarthen - Glangwili Hospital,Carmarthen - Glangwili Hospital via Trevaughan
+573,FirtCymuBussLtd,56,Pontardawe - Neath,
+574,FirtCymuBussLtd,56,Pontardawe - Neath,
+575,FirtCymuBussLtd,7,Swansea - Marina,
+576,3,G,Caerphilly - Churchill Park,Jubilee
+577,LlewJonsCoas,19X,Llandudno - Betws y Coed,Llandudno - Betws y Coed via Llanrwst
+578,NADT,C18,Bargoed - Bargoed,Bargoed - Bargoed  
+579,ThosofRhoa,173,Clydach Vale - Porth,Clydach Vale - Porth  
+580,ArraCymu,21H,Wrexham - Summerhill,Wrexham - Summerhill via Pendine Estate
+581,OwesofOswy,87,Foel - Welshpool,Foel - Welshpool via Llanfair Caereinion
+582,ArraCymu,4X,Bangor - Holyhead,Bangor - Holyhead via Llangefni
+583,FirtCymuBussLtd,7,Swansea - Marina,
+584,3,820,Cwmbran - St Albans School,Jubilee
+585,FirtCymuBussLtd.,126,Teglan Park - Ammanford,
+586,AdveTral,905,Rhoose Railway Station - Rhoose Railway Station,Rhoose Railway Station - Rhoose Railway Station  
+587,ArraCymu,41,Wrexham - Redwither Tower,Wrexham - Redwither Tower  
+588,ArraCymu,4X,Bangor - Holyhead,Bangor - Holyhead  
+589,3,D,Caerphilly - Penyrheol,Jubilee
+590,AdveTral,68,Abergavenny - Monmouth,Abergavenny - Monmouth  
+591,3,X21,Blackwood - Cwmbran,Jubilee
+592,FirtCymuBussLtd,90A,City Centre - Bay Campus,
+593,DilsCoas,G5,Caernarfon - Nebo,"Caernarfon - Nebo via Carmel, Penygroes"
+594,SouhWalsTrat,19,Swansea - Uplands,Swansea - Uplands via Brynmill
+595,3,172,Bridgend - Porthcawl,Jubilee
+596,BernCoas,17B,Pwllheli - Aberdaron,Pwllheli - Aberdaron  
+597,PhilAnsw,61,Brynmawr - Usk Coleg Gwent,Brynmawr - Usk Coleg Gwent via Abergavenny
+598,MorsTral,283,Llandeilo - Carmarthen,Llandeilo - Carmarthen  
+599,3,99,Pontypridd - Pontypridd,Jubilee
+600,JonsLogn,223,Carmarthen - Glandwr,Carmarthen - Glandwr  
+601,FirtCymuBussLtd,90A,City Centre - Bay Campus,
+602,CarfBus,92B,Cardiff - Penarth,Cardiff - Penarth via Cogan
+603,CarfBus,92B,Cardiff - Penarth (St Luke's Avenue),Cardiff - Penarth (St Luke's Avenue)  
+604,3,X21,Blackwood - Cwmbran,Jubilee
+605,JonsLogn,221,Carmarthen - Login,Carmarthen - Login  
+606,ArraCymu,62C,Bangor - Cemaes Bay,Bangor - Cemaes Bay via Amlwch
+607,MorsTral,205,Glangwili Hospital - Nant yr Arian,Glangwili Hospital - Nant yr Arian via Carmarthen
+608,FirtCymuBussLtd,901,Neath College - Margam,
+609,NewtBus,14,Newport - Newport,"Newport - Newport via Allt yr yn, Ridgeway"
+610,ArraCymu,26,Great Orme - Great Orme,Great Orme - Great Orme  
+611,MorsTral,284,Llandeilo - Ammanford,Llandeilo - Ammanford via Crugybar
+612,NewtBus,C1,Chepstow - Chepstow,Chepstow - Chepstow  
+613,MinyMots,740,Ludlow - Knighton,Ludlow - Knighton  
+614,NewtBus,26C,Newport -  St. Julians,Newport -  St. Julians via Beaufort Road
+615,OWNC,88,Welshpool - Welshpool,Welshpool - Welshpool via Borfa Green
+616,AdveTral,104,Pontypridd - Upper Boat,Pontypridd - Upper Boat  
+617,FirtCymuBussLtd.,L6,Llanelli (Bus Station) - Llanelli (Bus Station),
+618,FirtCymuBussLtd.,L6,Llanelli (Bus Station) - Llanelli (Bus Station),
+619,CelcTral,X12,Builth Wells - Abergavenny,Builth Wells - Abergavenny  
+620,SarsBros,861,Llandrindod Wells - Hereford,Llandrindod Wells - Hereford via Kington
+621,ArraCymu,3,Broughton - Broughton,Broughton - Broughton  
+622,ArraCymu,44,Wrexham - Wrexham,Wrexham - Wrexham via Barkers Lane
+623,ArraCymu,51S,Rhyl - Denbigh,Rhyl - Denbigh  
+624,AdveTral,321,Talbot Green - Llantwit Major,Talbot Green - Llantwit Major  
+625,HarsCoas,N2,Crumlin - Llanfach,Crumlin - Llanfach via Newbridge
+626,WremTaxs,34,Wrexham - Trevalyn,Wrexham - Trevalyn via Llay
+627,FirtCymuBussLtd.,126,Ammanford - Teglan Park,
+628,SWTR,54,Swansea - Parc Llewellyn,Swansea - Parc Llewellyn  
+629,ArraCymu,11X,Rhyl - Holwell,Rhyl - Holwell via Prestatyn
+630,PhilAnsw,66,Blaenavon - Usk Coleg Gwent,"Blaenavon - Usk Coleg Gwent via Abersychan, Pontypool"
+631,3,113,Aberdare - Cwmbach,Jubilee
+632,3,815,Nantyglo - Ysgol Gyfun Gwynllyw,Jubilee
+633,ArraCymu,14,Wrexham - Brymbo,Wrexham - Brymbo via Tanyfron
+634,NewtBus,C4,Chepstow - Beachley,Chepstow - Beachley via Sedbury
+635,CarfBus,8,Cardiff City Centre - Atlantic Wharf,"Cardiff City Centre - Atlantic Wharf via Grangetown, Cardiff Bay"
+636,MorsTral,276,Llandeilo - Carmarthen,Llandeilo - Carmarthen  
+637,AdveTral,A3,Abergavenny - Brynmawr,Abergavenny - Brynmawr via Clydach
+638,3,133,Porth - Wattstown,Jubilee
+639,OWNC,84,Llanfair Caereinion - Newtown,Llanfair Caereinion - Newtown  
+640,ORJons&SonsLtd,42A,Bangor - Menai Bridge,Bangor - Menai Bridge  
+641,3,11,Cwmbran - Pontypool,Jubilee
+642,P&OLlod,D2,Connah's Quay - Deeside Industrial Park,Connah's Quay - Deeside Industrial Park  
+643,TantValyCoas,76B,Llanrhaedr - Welshpool,"Llanrhaedr - Welshpool via Llanfyllin, Guilsfield"
+644,3,10,Garndiffaith - Pontypool,Jubilee
+645,NewtBus,JF3,Fields Park - John Frost School,Fields Park - John Frost School  
+646,CelcTral,X14,Builth Wells - Carmarthen,Builth Wells - Carmarthen via Llanwrtyd Wells
+647,Towx,6A,Mold - Pantymwyn,Mold - Pantymwyn  
+648,NewtBus,YGI3,Caerleon Road - Ysgol Gyfun Gwent Iscoed,Caerleon Road - Ysgol Gyfun Gwent Iscoed  
+649,MorsTral,279,Llandeilo - Carmarthen,"Llandeilo - Carmarthen via Carmel, Llanarthne"
+650,3,11,Aberdare - Cwmdare,Jubilee
+651,ArraCymu,83,Rhyl - Rhyl,Rhyl - Rhyl via Prestatyn
+652,HarsCoas,11,Blackwood - Gelligaer,"Blackwood - Gelligaer via Ystrad Mynach Tesco, Cefn Hengoed"
+653,SouhWalsTrat,155,Neath - Llandarcy Village,"Neath - Llandarcy Village via Skewen, Crymlyn Parc"
+654,CelcTral,X15,Builth Wells - Hereford Bus Station,Builth Wells - Hereford Bus Station via Hay on Wye
+655,PatsCoas,PC2,Gatewen - Llay Industrial Estate,Gatewen - Llay Industrial Estate via Queenspark
+656,ArraCymu,545,Bangor - Holyhead,Bangor - Holyhead  
+657,Dana,167,Crynant - Derlwyn,Crynant - Derlwyn  
+658,AdveTral,815,Splott - Ysgol Bro Edern,Splott - Ysgol Bro Edern via St Mellons
+659,CarfBus,B2,Cwm Talwg Estate - Barry Morrisons,"Cwm Talwg Estate - Barry Morrisons via Colcot, Gibbonsdown, Barry Hospital"
+660,ArraCymu,545,Bangor - Holyhead,Bangor - Holyhead  
+661,LlewJonsCoas,71,Corwen - Denbigh,Corwen - Denbigh  
+662,Rids,9,Port Talbot - Sandfields,Port Talbot - Sandfields  
+663,PhilAnsw,62A,Pontypool - Ebbw Vale College,"Pontypool - Ebbw Vale College via Talywain, Blaenavon"
+664,AdveTral,835,Ysgol Plasmawr School - Ely,Ysgol Plasmawr School - Ely  
+665,3,F,Caerphilly - Mornington Meadows,Jubilee
+666,ArraCymu,52,Denbigh - Rhyl,Denbigh - Rhyl  
+667,DilsCoas,G2,Caernarfon - Hendre Park,Caernarfon - Hendre Park  
+668,TantValyCoas,79,Oswestry - Llanrhaeadr,Oswestry - Llanrhaeadr  
+669,Goor,24,Holyhead - Holyhead,"Holyhead - Holyhead via Penrhos, Morawelon"
+670,ArraCymu,4C,Wrexham - Wrexham,Wrexham - Wrexham via Penycae
+671,YeosCannTral,442,Clehonger - Abergavenny,"Clehonger - Abergavenny via Ewyas Harold, Longtown"
+672,MorsTral,282,Brechfa - Carmarthen,Brechfa - Carmarthen  
+673,ArraCymu,4A,Wrexham - Wrexham,Wrexham - Wrexham via Penycae
+674,FirtCymuBussLtd,963,Newton - Gower College Swansea (Tycoch Campus),
+675,NewtBus,72,Chepstow - Lydney,Chepstow - Lydney  
+676,DilsCoas,67,Bangor - Bethesda,Bangor - Bethesda  
+677,MorsTral,277,Llandeilo - Carmarthen,Llandeilo - Carmarthen  
+678,CarfBus,54,St. Mellons - Heath Hospital,St. Mellons - Heath Hospital  
+679,CarfBus,54,St. Mellons - HeathHospital,St. Mellons - HeathHospital  
+680,CelcTral,X11,Builth Wells - Ludlow,Builth Wells - Ludlow  
+681,FirtCymuBussLtd,967,Glais - Gower College Swansea (Tycoch Campus),
+682,AdveTral,G1,Gabalfa - Gwaelod y Garth,Gabalfa - Gwaelod y Garth via Whitchurch
+683,M&HCoas,54,Trefnant - St Asaph Business Park,Trefnant - St Asaph Business Park via Rhyl
+684,P&OLlod,D3,Flint - Deeside Industrial Park,Flint - Deeside Industrial Park  
+685,PatsCoas,PC1,Southsea - Llay Industrial Estate,Southsea - Llay Industrial Estate  
+686,CarfBus,H59,Cardiff East Park & Ride - Heath Hospital,Cardiff East Park & Ride - Heath Hospital  
+687,AdveTral,830,Bishop of Llandaff - Ely,Bishop of Llandaff - Ely  
+688,NewtBus,JF2,Pillgwenlly - John Frost School,Pillgwenlly - John Frost School  
+689,CarfBus,612,Leckwith - St. Teilo's High School,"Leckwith - St. Teilo's High School via Grangetown, Splott and Tremorfa"
+690,3,95A,Newbridge School - Llanhilleth or Crosskeys,Jubilee
+691,DilsCoas,G1,Caernarfon - Maes Barcer,Caernarfon - Maes Barcer  
+692,M&HCoas,45,Rhyl - Ysbyty Glan Clwyd,Rhyl - Ysbyty Glan Clwyd via Kinmel Bay
+693,Dana,164,Neath Victoria Gardens - Crynant Business Park,Neath Victoria Gardens - Crynant Business Park  
+694,SouhWalsTrat,S37,Blackpill - Bishopston Comprehensive,Blackpill - Bishopston Comprehensive  
+695,Dana,26,Swansea - Fforesthall,Swansea - Fforesthall  
+696,MorsTral,278,Llandeilo - Carmarthen,"Llandeilo - Carmarthen via Carmel, Llanarthne"
+697,AdveTral,806,Ysgol Glantaf - Llanishen,Ysgol Glantaf - Llanishen  
+698,ArraCymu,83A,Rhyl - Rhyl,Rhyl - Rhyl via Prestatyn
+699,Towx,6,Mold - Pantymwyn,Mold - Pantymwyn  
+700,FirtCymuBussLtd,961,Llansamlet - Gower College Swansea (Tycoch Campus),
+701,TafValyCoas,X22,Haverfordwest - Pembroke Dock,Haverfordwest - Pembroke Dock  
+702,NewtBus,YGI2,Newport Bus Station - Ysgol Gyfun Gwent Iscoed,Newport Bus Station - Ysgol Gyfun Gwent Iscoed  
+703,DeneCoul,192,Melin y Wig - Llangollen,Melin y Wig - Llangollen via Corwen
+704,PemeCouyCou,308,Haverfordwest Bus Station - Haverfordwest Bus Station,"Haverfordwest Bus Station - Haverfordwest Bus Station via Llangwm, Burton"
+705,NewtBus,18,Newport - Malpas,Newport - Malpas  
+706,NewtBus,SJ2,Newport - St Joseph's RC High School,Newport - St Joseph's RC High School  
+707,Towx,14D,Denbigh - Mold,Denbigh - Mold  
+708,3,33,Merthyr Tydfil - Galon Uchaf,Jubilee
+709,NewtBus,SJ13,Newport Bus Station  - St Joseph's RC High School,Newport Bus Station  - St Joseph's RC High School via Handpost
+710,FirtCymuBussLtd,AZ10,Sketty Cross - Amazon Fulfilment Centre,
+711,MidWalsTral,YP24,Pontrhydyfendigaid - Penglais School,Pontrhydyfendigaid - Penglais School  
+712,OwesofOswy,73,Llanfair Caereinion - Oswestry,Llanfair Caereinion - Oswestry  
+713,Vals,TL1,Wrexham - Borras,Wrexham - Borras via Maes y Dre
+714,SouhWalsTrat,5,Swansea - Swansea,Swansea - Swansea  
+715,WremTaxs,17,Wrexham - Moss,Wrexham - Moss via Plas Coch
+716,FirtCymuBussLtd,AZ10,Sketty Cross - Amazon Fulfilment Centre,
+717,BernCoas,23,Pwllheli - Pwllheli Beach,"Pwllheli - Pwllheli Beach via Morfa Garreg, Talcymerau"
+718,AdveTral,816,Pentwyn Road - Llanishen High School,Pentwyn Road - Llanishen High School  
+719,Dana,113,Bishopston - Caswell Bay,"Bishopston - Caswell Bay via Mansfield, Oystermouth"
+720,3,82,Pontypool - Crosskeys College,Jubilee
+721,ArraCymu,4B,Chester - Mold,Chester - Mold  
+722,GwyrCoas,23,Holyhead - Holyhead,Holyhead - Holyhead via Rhoscolyn
+723,ArraCymu,78,Bangor - Maesgeirchen,Bangor - Maesgeirchen  
+724,LlosCoas,36,Machynlleth - Dinas Mawddwy,Machynlleth - Dinas Mawddwy  
+725,DilsCoas,85C,Deiniolen - Bangor,Deiniolen - Bangor  
+726,MidWalsMots,T1C,Cardiff - Aberystwyth,Cardiff - Aberystwyth  
+727,P&OLlod,22A,Holway - Brynford,Holway - Brynford  
+728,3,91,Brynmawr - Abertillery School,
+729,3,T14B,Brecon - Merthyr Tydfil,
+730,PemeCouyCou,311,Haverfordwest - Haverfordwest,Haverfordwest - Haverfordwest via Broad Haven
+731,TantValyCoas,74A,Llanfyllin - Shrewsbury,"Llanfyllin - Shrewsbury via Crew Green, Ford"
+732,CarfBus,615,Roath - Ysgol Glantaf,Roath - Ysgol Glantaf via Heath
+733,ArraCymu,42W,Wrexham - Stockwell Grove,Wrexham - Stockwell Grove via Stockwell Grove
+734,PhilAnsw,A2,Abergavenny - Llwynu Estate,Abergavenny - Llwynu Estate  
+735,GwyrCoas,50,Llangefni - Beaumaris,Llangefni - Beaumaris  
+736,PemeCouyCou,301,Haverfordwest - Haverfordwest,Haverfordwest - Haverfordwest  
+737,NewtBus,SJ8,Fields Road - St Joseph's RC High School,Fields Road - St Joseph's RC High School  
+738,MorsTral,225,Tre - Carmarthen,Tre - Carmarthen  
+739,NewtBus,JF4,Risca Road - John Frost School,Risca Road - John Frost School  
+740,PhilAnsw,A2,Abergavenny - Llwynu Estate,Abergavenny - Llwynu Estate  
+741,HarsCoas,6,Blackwood - Wyllie,Blackwood - Wyllie via Pontllanfraith
+742,NewtBus,JF1,Newport Bus Station - John Frost School,Newport Bus Station - John Frost School  
+743,3,103,Pontypridd - Cilfynydd,Jubilee
+744,ArraCymu,84,Rhyl - Rhyl,Rhyl - Rhyl via Trellewelyn Road
+745,PhilAnsw,8B,Cwmbran - Cwmbran,Cwmbran - Cwmbran  
+746,PhilAnsw,83,Abergavenny - Monmouth,Abergavenny - Monmouth  
+747,ArraCymu,41B,Wrexham General Station - HMP Berwyn,Wrexham General Station - HMP Berwyn  
+748,AdveTral,813,Ysgol Glantaf - Lisvane,Ysgol Glantaf - Lisvane  
+749,ANSL,W3,Monmouth - Monmouth,Monmouth - Monmouth  
+750,SeltCoas,204,Neath - Parc Wern,Neath - Parc Wern  
+751,NewtBus,SJ5,Nash Road - St Joseph's RC High School,Nash Road - St Joseph's RC High School  
+752,3,9,Pontypool - Tranch,Jubilee
+753,ArraCymu,84A,Rhyl - Rhyl,Rhyl - Rhyl via Trellewelyn Road
+754,NewtBus,SJ4,Newport - St Joseph's RC High School,Newport - St Joseph's RC High School  
+755,3,17,Pontypool - Wainfelin,Jubilee
+756,3,120X,Caerphilly - Nantgarw,Jubilee
+757,MoneCouyCou,75,Caldicott Cross - Sudbrook,Caldicott Cross - Sudbrook  
+758,Con2,L,Caerphilly - Caerphilly,"Caerphilly - Caerphilly via Glenfields, Bryncenydd"
+759,PhilAnsw,8A,Cwmbran - Cwmbran,Cwmbran - Cwmbran  
+760,NewtBus,SJ11,Newport - St Joseph's RC High School,Newport - St Joseph's RC High School via Pillgwenlly
+761,NewtBus,YGI1,Lyceum Tavern - Ysgol Gyfun Gwent Iscoed,Lyceum Tavern - Ysgol Gyfun Gwent Iscoed  
+762,NickMadyCoas,54,Bridstow - Monmouth,Bridstow - Monmouth  
+763,TafValyCoas,X61,Kilgetty - Pembroke Dock,Kilgetty - Pembroke Dock  
+764,Vals,TL3,Wrexham - Abenbury,Wrexham - Abenbury  
+765,ArraCymu,X43,Talwrn - Bangor,Talwrn - Bangor via Llangefni
+766,ArraCymu,X43,Talwrn - Bangor,Talwrn - Bangor via Llangefni
+767,Towx,28X,Mold - Flint,Mold - Flint  
+768,NewtBus,SJ9,Malpas Road - St Joseph's RC High School,Malpas Road - St Joseph's RC High School  
+769,3,38,Merthyr Tydfil - Twynyrodyn,
+770,PemeCouyCou,300,Milford Haven - Herbranston,Milford Haven - Herbranston  
+771,M&HCoas,46,Rhyl - Ysbyty Glan Clwyd,Rhyl - Ysbyty Glan Clwyd  
+772,PhilAnsw,A1,Abergavenny - Abergavenny,"Abergavenny - Abergavenny via Maerdy, Underhill"
+773,NewtBus,SJ1,Ringland - St Joseph's RC High School,Ringland - St Joseph's RC High School  
+774,P&OLlod,14A,Caerwys - Holywell,Caerwys - Holywell  
+775,OswyComyTras,T82,Vyrnwy Dam - Oswestry,Vyrnwy Dam - Oswestry via Llanfyllin
+776,DeneCoul,76H,Rhyl - Llangwyfan,Rhyl - Llangwyfan  
+777,FirtCymuBussLtd,34,Swansea - Enterprise Park,
+778,FirtCymuBussLtd,900,Neath College - Margam,
+779,TantValyCoas,79B,Llanrhaeadr - Oswestry,Llanrhaeadr - Oswestry  
+780,3,1,Aberdare - Abernant,Jubilee
+781,CelcTral,58,Llandrindod Wells - Builth Wells,Llandrindod Wells - Builth Wells  
+782,3,95C,Newbridge School - Llanhilleth or Crosskeys,Jubilee
+783,Towx,14M,Denbigh - Mold Campus,Denbigh - Mold Campus  
+784,Towx,S28,Mold - Flint,Mold - Flint  
+785,LewsYLlan,60,Amlwch - Carreglefn,Amlwch - Carreglefn via Cemaes
+786,NewtBus,SJ15,Afon Village - St Joseph's RC High School,Afon Village - St Joseph's RC High School  
+787,ORJons,52,Llanrhuddlad - Llangefni,Llanrhuddlad - Llangefni  
+788,MorsTral,228,Carmarthen - Carmarthen,Carmarthen - Carmarthen via Pentremeurig
+789,NewtBus,41,Newport - Newport,Newport - Newport  
+790,OwesofOswy,86B,Newtown Town Service - Barnsfield,"Newtown Town Service - Barnsfield via Hospital, Morrisons"
+791,FirtCymuBussLtd,34,Swansea - Enterprise Park,
+792,CarfBus,604,Leckwith - Ysgol Plasmawr,Leckwith - Ysgol Plasmawr via Grangetown
+793,P&OLlod,23,Greenfield - Holywell,Greenfield - Holywell  
+794,3,2,Aberdare - Aberdare,Jubilee
+795,CarfBus,14,Caerau & Ely - Heath Hospital,Caerau & Ely - Heath Hospital via Western Avenue
+796,PhilAnsw,A4,Abergavenny - Abergavenny,Abergavenny - Abergavenny via Llanfoist & LLangollen
+797,SouhWalsTrat,30,Swansea - Trallwn (Rhydfelin),Swansea - Trallwn (Rhydfelin) via Bonymaen
+798,ArraCymu,58P,Bangor - Glan Yr Afon,Bangor - Glan Yr Afon  
+799,OwesofOswy,78,Oswestry - Oswestry,Oswestry - Oswestry via Llansilin
+800,ArraCymu,85,Rhyl - Trellewelyn Road Shops,Rhyl - Trellewelyn Road Shops  
+801,NewtBus,SJ14,Goldcliff - St Joseph's RC High School,Goldcliff - St Joseph's RC High School  
+802,MidWalsTral,3,Aberystwyth Promenade - Aberystwyth University,Aberystwyth Promenade - Aberystwyth University via National Library
+803,P&OLlod,22,Holway - Maes,Holway - Maes  
+804,3,91,Brynmawr - Abertillery School,Jubilee
+805,MorsTral,289,Lampeter - Llandovery,Lampeter - Llandovery  
+806,MorsTral,B13,Carmarthen - Carmarthen,Carmarthen - Carmarthen  
+807,CarfBus,608,Cardiff - Fitzalan School,"Cardiff - Fitzalan School via Butetown, Grangetown"
+808,GoorCoas,22,Holyhead - Holyhead,Holyhead - Holyhead via Llaingoch
+809,OwesofOswy,89,Llanfair Caereinion - Welshpool,Llanfair Caereinion - Welshpool  
+810,3,95B,Newbridge School - Llanhilleth or Crosskeys,Jubilee
+811,CarfBus,93S,Cardiff - Redlands Road (St Cyres School),Cardiff - Redlands Road (St Cyres School) via Ferry Road
+812,NewtBus,SJ10,Bettws - St Joseph's RC High School,Bettws - St Joseph's RC High School  
+813,KeesCoas,3,Penrhiwceiber surgery - Penrhiwceiber surgery,"Penrhiwceiber surgery - Penrhiwceiber surgery via Mountain Ash, Caegarw"
+814,MorsTral,207,Carmarthen - Carmarthen,Carmarthen - Carmarthen via Brynmeurig
+815,NewtBus,40,Newport - Newport,Newport - Newport  
+816,Dana,165,Glynneath - Crynant,Glynneath - Crynant  
+817,PemeCouyCou,313,Haverfordwest - Wiston,"Haverfordwest - Wiston via Crundale, Clarbeston Road"
+818,3,40B,Brecon - Brecon,
+819,ArraCymu,543,Bangor - Talwrn,Bangor - Talwrn via Llangefni
+820,ArraCymu,543,Bangor  - Talwrn,Bangor  - Talwrn  
+821,CarfBus,14,Caerau - Heath Hospital,Caerau - Heath Hospital via Western Avenue
+822,HarsCoas,8,Blackwood - Blackwood,"Blackwood - Blackwood via Highfields, Grove Park"
+823,MoneCouyCou,A4,Abergavenny - Abergavenny,Abergavenny - Abergavenny via Llanfoist & LLangollen
+824,CarfBus,618,Cathays High School - Cardiff Bay,Cathays High School - Cardiff Bay  
+825,FirtCymuBussLtd,964,Visteon Club (S) - Swansea College (SW),
+826,EFCO,31,Amlwch - Amlwch,Amlwch - Amlwch  
+827,MorsTral,B11,Carmarthen - Carmarthen,Carmarthen - Carmarthen  
+828,ArraCymu,42,Wrexham - Stockwell Grove,Wrexham - Stockwell Grove via Stockwell Grove
+829,SouhWalsTrat,49,Swansea - Swansea,Swansea - Swansea  
+830,PemeCouyCou,318,Hakin - Milford Haven CS School,Hakin - Milford Haven CS School  
+831,MoneCouyCou,A1,Abergavenny - Abergavenny,"Abergavenny - Abergavenny via Maerdy, Underhill"
+832,JAEvas,YT07,Tregaron - Ysgol Henry Richards,Tregaron - Ysgol Henry Richards  
+833,PhilAnsw,3,Cwmbran - Cwmbran,Cwmbran - Cwmbran via Llanyravon
+834,NewtBus,SJ6,Barrack Hill - St Joseph's RC High School,Barrack Hill - St Joseph's RC High School  
+835,NewtBus,SJ7,Western Avenue - St Joseph's RC High School,Western Avenue - St Joseph's RC High School  
+836,GwyrCoas,48,Llangefni - Llangefni,Llangefni - Llangefni  
+837,DilsCoas,9C,Bangor - Coed Mawr,Bangor - Coed Mawr  
+838,PhilAnsw,3,Cwmbran - Cwmbran,Cwmbran - Cwmbran via Llanyravon
+839,CarfBus,606,Leckwith - Ysgol Plasmawr,Leckwith - Ysgol Plasmawr via Leckwith Road
+840,HarsCoas,9,Blackwood - Blackwood,Blackwood - Blackwood  
+841,Goor,21A,Holyhead Summerhill - Holyhead Summerhill,"Holyhead Summerhill - Holyhead Summerhill via Treseifion, Penrhos"
+842,3,C18,Bargoed - Gilfach,
+843,CarfBus,619,Cathays High School - Cardiff City Centre,Cathays High School - Cardiff City Centre  
+844,ArraCymu,562,Amlwch - Llanfachraeth,Amlwch - Llanfachraeth  
+845,NewtBus,B1,Mount Pleasant - Bassaleg School,Mount Pleasant - Bassaleg School  
+846,SPCars,B58,Llanidloes - Rhayader,"Llanidloes - Rhayader via Pant, y, dwr, St Harmon"
+847,AdveTral,109,Pontypridd - Penygraigwen,Pontypridd - Penygraigwen via Graigwen
+848,OwesofOswy,76A,Dolanog - Welshpool,Dolanog - Welshpool  
+849,TantValyCoas,72D,Oswestry - Llanfyllin,Oswestry - Llanfyllin  
+850,AdveTral,105,Pontypridd - Pwllgwaun,Pontypridd - Pwllgwaun  
+851,NewtBus,SJ3,Victoria Avenue - St Joseph's RC High School,Victoria Avenue - St Joseph's RC High School  
+852,3,91,Brynmawr - Abertillery School,Jubilee
+853,Vals,TL2,Wrexham - Pentre bach,Wrexham - Pentre bach via Pen y Bryn
+854,CarfBus,611,Bute Street - Fitzalan School,"Bute Street - Fitzalan School via Ninian Park Road, Tudor Street, City Centre, Bute Street"
+855,CarfBus,614,Broadway - St. Teilo's High School,Broadway - St. Teilo's High School via Colechester Avenue
+856,CarfBus,610,Cardiff Bay - Fitzalan School,"Cardiff Bay - Fitzalan School via Corporation Road, Sloper Road"
+857,GwyrCoas,55,Llangefni - Llangefni,"Llangefni - Llangefni via Pentraeth, Talwrn"
+858,NewtBus,13,Newport - Brynglas,Newport - Brynglas  
+859,Con2,5A,Blackwood - Blackwood,Blackwood - Blackwood  
+860,MidWalsTral,304,Aberystwyth - Aberystwyth,Aberystwyth - Aberystwyth via Penparcau
+861,OwesofOswy,71,Llanymynech - Welshpool,Llanymynech - Welshpool via Guilsfield
+862,DilsCoas,G3,Caernarfon - Caernarfon,"Caernarfon - Caernarfon via Victoria Dock, Cae Gwyn"
+863,CarfBus,613,Adamsdown - St. Teilo's High School,Adamsdown - St. Teilo's High School via Splott and Tremorfa
+864,PhilAnsw,W5,Monmouth - Monmouth,Monmouth - Monmouth  
+865,ANSL,W4,Monmouth - Monmouth,Monmouth - Monmouth  
+866,Goor,24A,Holyhead -  Holyhead,Holyhead -  Holyhead via Morawelon
+867,AdveTral,107,Pontypridd - Pontypridd,Pontypridd - Pontypridd via Trefforest
+868,AdveTral,A5,Abergavenny - Abergavenny,Abergavenny - Abergavenny via Knoll Estate
+869,MidWalsTral,301,Aberystwyth - Aberystwyth,Aberystwyth - Aberystwyth via Penglais Campus
+870,LlewJonsCoas,71A,Denbigh - Llansannan,Denbigh - Llansannan  
+871,Dana,162,Min yr Awel - Glynneath,Min yr Awel - Glynneath  
+872,3,138,Porth - Trehafod,Jubilee
+873,AdveTral,46,Gorseinon - Gorseinon Hospital,Gorseinon - Gorseinon Hospital  
+874,MorsTral,B12,Carmarthen - Carmarthen,Carmarthen - Carmarthen  
+875,PatsCoas,X46,Wrexham - Whitchurch,Wrexham - Whitchurch  
+876,DeneCoul,141,Cwm - Denbigh,Cwm - Denbigh  
+877,CelcTral,41A,Presteigne - Newtown,"Presteigne - Newtown via Knighton, Knucklas"
+878,PhilAnsw,4H,Cwmbran - Cwmbran,Cwmbran - Cwmbran via Henllys
+879,HarsCoas,E12,Tredegar - Tredegar,Tredegar - Tredegar via Dukestown
+880,NewtBus,C2,Chepstow - St Kingsmark,Chepstow - St Kingsmark  
+881,Con2,13,Manmoel - Blackwood,Manmoel - Blackwood  
+882,NewtBus,12,Newport - Sainsbury's,Newport - Sainsbury's  
+883,MinyMots,738,Knighton - Ludlow,Knighton - Ludlow  
+884,ArraCymu,2S,Rhyn Park School - Oswestry,Rhyn Park School - Oswestry  
+885,CarfBus,3,City Centre - Ocean Way Business Park,City Centre - Ocean Way Business Park via Tyndall Street
+886,FirtCymuBussLtd.,X49,Haverfordwest - Tenby,
+887,FirtCymuBussLtd.,X49,Haverfordwest - Tenby,
+888,VileandVals,MR1,Pentre - Treorchy,Pentre - Treorchy  
+889,RicsBros,642,Crymych - Clarbeston Road,Crymych - Clarbeston Road  
+890,MoneCouyCou,W5a,Monmouth - Monmouth,Monmouth - Monmouth  
+891,NewtBus,B2,Foxgloves - Bassaleg School,Foxgloves - Bassaleg School  
+892,PhilAnsw,68,Cwmbran - Usk Coleg Gwent,Cwmbran - Usk Coleg Gwent  
+893,SouhWalsTrat,153,Neath - Fairyland,Neath - Fairyland via Gnoll Park Road/ Beechwood Avenue
+894,3,137,Porth - Coronation Terrace,Jubilee
+895,CarfBus,609,Cardiff Clare Road - Fitzalan School,Cardiff Clare Road - Fitzalan School  
+896,RicsBros,342,Haverfordwest - Croesgoch,Haverfordwest - Croesgoch  
+897,HarsCoas,E14,Tredegar - Tredegar,Tredegar - Tredegar via Gwent Way
+898,AdveTral,818,Pentwyn Drive/Heddfaen South - Llanishrn High School,Pentwyn Drive/Heddfaen South - Llanishrn High School  
+899,NewtBus,X60,Newport - Monmouth,Newport - Monmouth  
+900,BernCoas,23A,Pwllheli - Pwllheli,Pwllheli - Pwllheli  
+901,Con2,C1,Nelson - Nelson,Nelson - Nelson  
+902,M&HCoas,47,Rhyl - Rhyl,Rhyl - Rhyl via Brynhedydd
+903,M&HCoas,21,Colwyn Bay - Colwyn Bay,Colwyn Bay - Colwyn Bay via Kings Road
+904,NewtBus,C3,Chepstow - Garden City,Chepstow - Garden City  
+905,RicsBros,644,Rosebush - Clarbeston Rd,Rosebush - Clarbeston Rd  
+906,AdveTral,18A,Ty Rhiw - Ffynnon Taf Primary School,Ty Rhiw - Ffynnon Taf Primary School  
+907,SouhWalsTrat,150,Neath - Leiros Park,Neath - Leiros Park  
+908,FirtCymuBussLtd,909,Neath College Campus - Margam College Campus,
+909,Goor,21,Holyhead Summerhill - Holyhead Summerhill,Holyhead Summerhill - Holyhead Summerhill via Treseifion
+910,EifsCoas,31,Amlwch - Rhosgoch,Amlwch - Rhosgoch  
+911,AdveTral,2,Ty Rhiw - Taffs Well Primary School,Ty Rhiw - Taffs Well Primary School  
+912,AdveTral,A6,Abergavenny - Abergavenny,Abergavenny - Abergavenny via Holywell Crescent
+913,GwyrCoas,36,Llangefni - Llangefni,Llangefni - Llangefni  
+914,ArraCymu,301,Ysgol David Hughes - Llanfairpwll,Ysgol David Hughes - Llanfairpwll  
+915,ArraCymu,302,Ysgol David Hughes - Llanfairpwll,Ysgol David Hughes - Llanfairpwll  
+916,CarfBus,600,Fitzalan high School - Grangetown,Fitzalan high School - Grangetown  

@@ -18,4 +18,4 @@ pip install pandas
 ### Step 4: Run the script
 ```
 python3 csv_to_sql.py
-```# CSV-To-SQL
+```
